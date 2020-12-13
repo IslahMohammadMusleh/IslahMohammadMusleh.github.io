@@ -158,6 +158,10 @@ sup {
   top: -0.5em;
 }
 
+.custom_bg_sidebar {
+  background-color: #101010;
+}
+
 a {
   color: #bd5d38;
   text-decoration: none;
@@ -10091,8 +10095,8 @@ section.resume-section {
   align-items: center;
   padding-left: 1rem;
   padding-right: 1rem;
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 5rem;  
+  padding-bottom: 1rem;
   max-width: 75rem;
 }
 section.resume-section .resume-section-content {
